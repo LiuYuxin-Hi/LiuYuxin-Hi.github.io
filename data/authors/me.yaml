@@ -7,11 +7,17 @@ name:
   family: Liu
 postnominals: []
 status:
+  icon: "🎓"
+role: Master's Student in Public Policy
 email: liuyuxin254@mails.ucas.ac.cn
 bio: |
+  Yuxin Liu is a Master's student in Public Policy at the University of Chinese Academy of Sciences.
+  His research focuses on artificial intelligence governance, digital government, and science of science.
+  His work has been published in SSCI journals and accepted by leading CSSCI journals.
 
 affiliations:
   - name: University of Chinese Academy of Sciences
+    url: https://www.ucas.ac.cn/
 
 links:
   - icon: at-symbol
@@ -19,105 +25,72 @@ links:
     label: E-mail Me
 
 interests:
+  - Artificial Intelligence Governance
+  - Digital Government
+  - Science of Science
+  - Public Policy
 
 education:
-  - degree: M.P.P. Public Policy
+  - degree: M.A. Public Policy
     institution: University of Chinese Academy of Sciences
-    start: 2025-09-01
-    end: 2028-06-30
+    start: 2025/09
+    end: 2028/06
     summary: |
+      School of Public Policy and Management.
+
   - degree: B.A. Public Affairs Management
     institution: Southwest Jiaotong University
+    start: 2021/09
+    end: 2025/06
     summary: |
+      School of Public Administration.
+      Rank: 1/67, GPA: 3.84/4.0, Comprehensive Score: 94.49.
 
-# 工作/实习经历
 experience:
   - role: Research Assistant
     org: Institute for Contemporary China Studies, Tsinghua University
-    start: 2025-09-01
-    end: 2026-02-01
+    start: 2025/09
+    end: 2026/02
     summary: |
-      Conducted research on contemporary China studies
-      Assisted in policy analysis and research projects
-  
+      Participated in policy research and academic projects on contemporary China studies.
+
   - role: Financial Assistant
-    org: JiuLiTi North Community, Jinniu District, Chengdu
-    start: 2023-06-01
-    end: 2023-07-31
+    org: Jiuliti North Community, Jinniu District, Chengdu
+    start: 2023/06
+    end: 2023/07
     summary: |
-      Internship in community financial management
-      Assisted with administrative and financial tasks
-
-# 学生工作
-leadership:
-  - role: Commissary in Charge of Studies
-    org: Class 2021-01, Public Administration, SWJTU
-    start: 2023-09-01
-    end: 2025-06-30
-  
-  - role: Director
-    org: Media and Outreach Center, Youth Volunteer Association
-    start: 2023-09-01
-    end: 2024-06-30
-  
-  - role: Deputy Director
-    org: New Media Center, Foreign Languages Association
-    start: 2022-09-01
-    end: 2023-06-30
-  
-  - role: Commissary in Charge of General Affairs
-    org: Class 20259601, School of Public Policy and Management, UCAS
-    start: 2025-09-01
-    present: true
-
-# 竞赛奖项
-competitions:
-  - "14th National College Student Market Research and Analysis Competition - **National First Prize** (2023-2024)"
-  - "7th National Urban Management Case Innovation Competition - National Third Prize (2025)"
-  - "5th Sichuan Provincial Public Management Case Challenge Competition - Provincial First Prize (2023)"
-  - "14th Mathematics Competition of Chinese College Student - Provincial First Prize (2022-2023)"
-  - "9th 'Policy Review China' Competition, Zhejiang University - Winning Prize (2025)"
-  - "2025 Tsinghua University China Public Policy Case Analysis Competition - Advanced to Semi-Finals (2025)"
+      Assisted in financial administration and community service management.
 
 skills:
-  - name: Research Methods
+  - name: Programming and Data Analysis
     items:
-      - label: Quantitative Analysis
+      - label: Python
         level: 4
-      - label: Qualitative Analysis
+      - label: R
         level: 4
-      - label: Policy Analysis
+      - label: Stata
+        level: 4
+      - label: SPSS
         level: 5
-  
-  - name: Software
+      - label: SmartPLS
+        level: 5
+
+  - name: Research Tools
     items:
-      - label: Python/R/Stata
+      - label: NVivo
         level: 4
-      - label: SPSS/SmartPLS
+      - label: ArcMap
         level: 4
-      - label: NVivo/CiteSpace
-        level: 3
-      - label: ArcMap/Origin
-        level: 3
+      - label: CiteSpace
+        level: 4
+      - label: Origin
+        level: 4
+      - label: Zotero
+        level: 5
 
 languages:
-  - name: Chinese
-    level: 5
-    label: Native
   - name: English
     level: 4
-    label: CET-6 523 | CET-4 541
+    label: CET-6
 
-awards:
-  - National Scholarship
-  - UCAS Academic Scholarship
-  - First-Class Comprehensive Scholarship (2 years)
-  - Merit Student
-  - Outstanding Communist Youth League member
-  - Three-Star Volunteer (371 service hours)
-
-# 证书
-certifications:
-  - "CET-4: 541"
-  - "CET-6: 523"
-  - "NCRE Level 2 Pass"
+awards: []
