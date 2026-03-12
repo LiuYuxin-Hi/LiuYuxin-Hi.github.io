@@ -225,9 +225,9 @@ sections:
       title: Get In Touch
       subtitle: "Let's build something amazing together"
       text: |-
-        I'm always interested in hearing about new projects and opportunities.
+        I'm always interested in hearing about new opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: liuyuxin254@mails.ucas.ac.cn
       autolink: true
     design:
       columns: '1'
