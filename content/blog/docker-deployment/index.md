@@ -3,10 +3,10 @@ title: "Digital Transformation Dilemmas and Development Models of New-Type Think
 date: 2026-03-12
 summary: "Explores the dilemmas and development models of digital transformation for new-type think tanks in China under the context of intelligent technology."
 tags:
-  - CSSCI IF: 2.254
+  - CSSCI
 authors:
-  - Yuxin Liu
-featured: true
+  - me
+featured: false
 ---
 
 This paper analyzes the challenges faced by Chinese new-type think tanks in digital transformation and proposes development models under intelligent technology.
@@ -46,3 +46,9 @@ Think Tank G demonstrates successful adaptation through digital tools and collab
 Strategic digital adoption is essential for think tanks to maintain relevance and improve policy impact. Digital transformation should balance technology with organizational culture.
 
 [Read full article](#)
+
+
+---
+
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
