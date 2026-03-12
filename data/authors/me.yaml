@@ -29,21 +29,6 @@ education:
   - degree: B.A. Public Affairs Management
     institution: Southwest Jiaotong University
     summary: |
-      Rank: 1/67 | GPA: 3.84/4.0 | Comprehensive Score: 94.49
-      School of Public Administration
-
-# 研究经历
-research_experience:
-  - title: "Published Papers"
-    items:
-      - "Perceived Quality of Home- and Community-Based Services and Urban-Rural Disparities in Aging-in-Place Intentions: Evidence from Chinese Older Adults - *BMC Geriatrics* (SSCI Q2, JCR Q1)"
-      - "Digital Transformation Dilemmas and Development Models of New-Type Think Tanks in China under the Background of Intelligent Technology Development - *Think Tank: Theory & Practice* (CSSCI)"
-      - "Digital Transformation Policies of the Central Government and Their Impacts: An Analysis from a Three-Dimensional Policy Field Perspective - *China Soft Science* (CSSCI)"
-  
-  - title: "Research Projects"
-    items:
-      - "National Natural Science Foundation of China - The Problem of Declining Effectiveness in Policy Pilot Scaling (Participant)"
-      - "Commissioned Research Project - Risks and Response Strategies in Energy Policy Cooperation in Southeast Asia (Participant)"
 
 # 工作/实习经历
 experience:
