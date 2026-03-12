@@ -1,11 +1,11 @@
 ---
 title: "Perceived Quality of Home- and Community-Based Services and Urban-Rural Disparities in Aging-in-Place Intentions"
-date: 2026-03-12
-summary: "Examines how perceived quality of home- and community-based services and urban-rural disparities affect aging-in-place intentions among Chinese older adults."
+date: 2026-01-13
+summary: "Using data from 11,601 older adults in Sichuan, China, we analyzed perceived HCBS quality across four dimensions (service quantity, service quality, provider sufficiency, and distance) through an ecological framework integrating service quality models and the Ecology Model of Aging."
 tags:
-  - SSCI IF: 3.8
+  - SSCI
 authors:
-  - Yuxin Liu
+  - me
 featured: true
 ---
 
@@ -44,4 +44,11 @@ The study highlights service gaps that may impact the ability of older adults to
 
 Quality of services and regional disparities significantly affect aging-in-place intentions. Targeted interventions can help promote equitable aging opportunities.
 
+
 [Read full article](https://link.springer.com/article/10.1186/s12877-025-06936-z)
+
+
+---
+
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
