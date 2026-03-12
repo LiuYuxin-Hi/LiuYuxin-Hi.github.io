@@ -1,5 +1,16 @@
 ---
-title: Blog
-view: article-grid
-columns: 3  # 3列并列
+title: 'Blog'
+date: 2024-05-19
+type: landing
+
+sections:
+  - block: collection
+    content:
+      title: Papers
+      filters:
+        folders:
+          - blog
+    design:
+      view: article-grid
+      columns: 3
 ---
