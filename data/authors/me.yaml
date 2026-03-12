@@ -2,8 +2,6 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
   display: Yuxin Liu
   given: Yuxin
   family: Liu
