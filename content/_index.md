@@ -20,10 +20,10 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I publish"
+        prefix: "I have published"
         strings:
-          - "1 SSCI"
-          - "2 CSSCI"
+          - "1 SSCI paper"
+          - "2 CSSCI papers"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -128,7 +128,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Featured Projects"
+      title: "Papers"
       subtitle: "A selection of my recent work"
       count: 0
       filters:
