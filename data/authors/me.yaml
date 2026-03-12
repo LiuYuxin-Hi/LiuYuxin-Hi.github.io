@@ -7,22 +7,11 @@ name:
   family: Liu
 postnominals: []
 status:
-  icon: "🎓"  # 改为学生/研究者图标
-role: Public Policy Researcher | Master's Student
 email: liuyuxin254@mails.ucas.ac.cn
 bio: |
-  Research interests include digital governance, science and technology policy, 
-  and aging services. Published in SSCI and CSSCI journals with multiple 
-  conference presentations.
-# 联系方式
-  phone: "+86 130-1181-4201"
-  email: "liuyuxin254@mails.ucas.ac.cn"
 
 affiliations:
   - name: University of Chinese Academy of Sciences
-    url: https://english.ucas.ac.cn/
-  - name: Southwest Jiaotong University
-    url: https://www.swjtu.edu.cn/
 
 links:
   - icon: at-symbol
