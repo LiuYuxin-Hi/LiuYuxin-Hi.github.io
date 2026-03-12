@@ -3,10 +3,10 @@ title: "Digital Transformation Policies of the Central Government and Their Impa
 date: 2026-03-12
 summary: "Analyzes central government digital transformation policies and their impacts from a three-dimensional policy field perspective."
 tags:
-  - CSSCI IF: 11.45
+  - CSSCI
 authors:
-  - Yuxin Liu
-featured: true
+  - me
+featured: false
 ---
 
 This research investigates China’s central government digital transformation policies and evaluates their impacts across multiple policy dimensions.
@@ -46,3 +46,9 @@ Digital transformation is a core strategy in China’s governance. This paper ex
 Effective digital transformation policies require multi-dimensional analysis and adaptive strategies. Insights can guide future government planning.
 
 [Read full article](#)
+
+
+---
+
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
