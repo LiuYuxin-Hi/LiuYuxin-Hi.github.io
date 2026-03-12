@@ -17,27 +17,8 @@ links:
   - icon: at-symbol
     url: mailto:liuyuxin254@mails.ucas.ac.cn
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/LiuYuxin-Hi
-    label: GitHub
-  - icon: brands/weixin  # 微信图标
-    url: https://weixin.qq.com/
-    label: WeChat: Yulia_Nix
-  # - icon: brands/linkedin  # 如果有LinkedIn可以添加
-  #   url: https://www.linkedin.com/in/你的用户名/
-
-# 个人信息
-personal:
-  birthday: "2003-09-05"
-  location: "Jining, Shandong, China"
-  phone: "+86 130-1181-4201"
-  wechat: "Yulia_Nix"
 
 interests:
-  - Digital Governance
-  - Science and Technology Policy
-  - Aging Services Policy
-  - Public Policy Analysis
 
 education:
   - degree: M.P.P. Public Policy
