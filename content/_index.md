@@ -103,8 +103,8 @@ sections:
   - block: collection
     id: blog
     content:
-      title: Recent Posts
-      subtitle: 'Thoughts on web development, tech, and more'
+      title: Papers
+      subtitle: 'My Thoughts'
       text: ''
       filters:
         folders:
@@ -128,8 +128,8 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Papers"
-      subtitle: "A selection of my recent work"
+      title: "Interships"
+      subtitle: "My Practice"
       count: 0
       filters:
         folders:
@@ -163,7 +163,7 @@ sections:
     id: skills
     content:
       title: "Tech Stack"
-      subtitle: "Technologies I use to build things"
+      subtitle: "My Advantages"
       categories:
         - name: Languages
           items:
