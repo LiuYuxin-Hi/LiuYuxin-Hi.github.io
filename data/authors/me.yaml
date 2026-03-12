@@ -7,94 +7,174 @@ name:
   family: Liu
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🎓"  # 改为学生/研究者图标
+role: Public Policy Researcher | Master's Student
+email: liuyuxin254@mails.ucas.ac.cn
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Master's student in Public Policy at University of Chinese Academy of Sciences. 
+  Research interests include digital governance, science and technology policy, 
+  and aging services. Published in SSCI and CSSCI journals with multiple 
+  conference presentations.
+
+# 联系方式
+contact:
+  phone: "+86 130-1181-4201"
+  wechat: "Yulia_Nix"
+  email: "liuyuxin254@mails.ucas.ac.cn"
 
 affiliations:
-  - name: Yuxin Liu
-    url: https://techcorp.example.com
+  - name: University of Chinese Academy of Sciences
+    url: https://english.ucas.ac.cn/
+  - name: Southwest Jiaotong University
+    url: https://www.swjtu.edu.cn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:liuyuxin254@mails.ucas.ac.cn
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://github.com/LiuYuxin-Hi
+    label: GitHub
+  - icon: brands/weixin  # 微信图标
+    url: https://weixin.qq.com/
+    label: WeChat: Yulia_Nix
+  # - icon: brands/linkedin  # 如果有LinkedIn可以添加
+  #   url: https://www.linkedin.com/in/你的用户名/
+
+# 个人信息
+personal:
+  birthday: "2003-09-05"
+  location: "Jining, Shandong, China"
+  phone: "+86 130-1181-4201"
+  wechat: "Yulia_Nix"
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Digital Governance
+  - Science and Technology Policy
+  - Aging Services Policy
+  - Public Policy Analysis
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: M.P.P. Public Policy
+    institution: University of Chinese Academy of Sciences
+    start: 2025-09-01
+    end: 2028-06-30
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      School of Public Policy and Management
+      Focus on digital transformation and public policy
+    # button:
+    #   text: UCAS
+    #   url: https://english.ucas.ac.cn/
+  
+  - degree: B.A. Public Affairs Management
+    institution: Southwest Jiaotong University
+    start: 2021-09-01
+    end: 2025-06-30
+    summary: |
+      Rank: 1/67 | GPA: 3.84/4.0 | Comprehensive Score: 94.49
+      School of Public Administration
 
+# 研究经历
+research_experience:
+  - title: "Published Papers"
+    items:
+      - "Perceived Quality of Home- and Community-Based Services and Urban-Rural Disparities in Aging-in-Place Intentions: Evidence from Chinese Older Adults - *BMC Geriatrics* (SSCI Q2, JCR Q1)"
+      - "Digital Transformation Dilemmas and Development Models of New-Type Think Tanks in China under the Background of Intelligent Technology Development - *Think Tank: Theory & Practice* (CSSCI)"
+      - "Digital Transformation Policies of the Central Government and Their Impacts: An Analysis from a Three-Dimensional Policy Field Perspective - *China Soft Science* (CSSCI)"
+  
+  - title: "Research Projects"
+    items:
+      - "National Natural Science Foundation of China - The Problem of Declining Effectiveness in Policy Pilot Scaling (Participant)"
+      - "Commissioned Research Project - Risks and Response Strategies in Energy Policy Cooperation in Southeast Asia (Participant)"
+
+# 工作/实习经历
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Research Assistant
+    org: Institute for Contemporary China Studies, Tsinghua University
+    start: 2025-09-01
+    end: 2026-02-01
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      Conducted research on contemporary China studies
+      Assisted in policy analysis and research projects
+  
+  - role: Financial Assistant
+    org: JiuLiTi North Community, Jinniu District, Chengdu
+    start: 2023-06-01
+    end: 2023-07-31
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Internship in community financial management
+      Assisted with administrative and financial tasks
+
+# 学生工作
+leadership:
+  - role: Commissary in Charge of Studies
+    org: Class 2021-01, Public Administration, SWJTU
+    start: 2023-09-01
+    end: 2025-06-30
+  
+  - role: Director
+    org: Media and Outreach Center, Youth Volunteer Association
+    start: 2023-09-01
+    end: 2024-06-30
+  
+  - role: Deputy Director
+    org: New Media Center, Foreign Languages Association
+    start: 2022-09-01
+    end: 2023-06-30
+  
+  - role: Commissary in Charge of General Affairs
+    org: Class 20259601, School of Public Policy and Management, UCAS
+    start: 2025-09-01
+    present: true
+
+# 竞赛奖项
+competitions:
+  - "14th National College Student Market Research and Analysis Competition - **National First Prize** (2023-2024)"
+  - "7th National Urban Management Case Innovation Competition - National Third Prize (2025)"
+  - "5th Sichuan Provincial Public Management Case Challenge Competition - Provincial First Prize (2023)"
+  - "14th Mathematics Competition of Chinese College Student - Provincial First Prize (2022-2023)"
+  - "9th 'Policy Review China' Competition, Zhejiang University - Winning Prize (2025)"
+  - "2025 Tsinghua University China Public Policy Case Analysis Competition - Advanced to Semi-Finals (2025)"
 
 skills:
-  - name: Development
+  - name: Research Methods
     items:
-      - label: TypeScript
-        level: 5
-      - label: React
-        level: 5
-      - label: Node.js
-        level: 5
-      - label: Python
+      - label: Quantitative Analysis
         level: 4
-  - name: DevOps
+      - label: Qualitative Analysis
+        level: 4
+      - label: Policy Analysis
+        level: 5
+  
+  - name: Software
     items:
-      - label: Docker
+      - label: Python/R/Stata
         level: 4
-      - label: AWS
+      - label: SPSS/SmartPLS
         level: 4
-      - label: CI/CD
-        level: 5
+      - label: NVivo/CiteSpace
+        level: 3
+      - label: ArcMap/Origin
+        level: 3
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
+  - name: English
+    level: 4
+    label: CET-6 523 | CET-4 541
 
-awards: []
+awards:
+  - National Scholarship
+  - UCAS Academic Scholarship
+  - First-Class Comprehensive Scholarship (2 years)
+  - Merit Student
+  - Outstanding Communist Youth League member
+  - Three-Star Volunteer (371 service hours)
+
+# 证书
+certifications:
+  - "CET-4: 541"
+  - "CET-6: 523"
+  - "NCRE Level 2 Pass"
