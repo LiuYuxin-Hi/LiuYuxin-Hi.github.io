@@ -30,7 +30,7 @@ interests:
   - Science of Science
   - Public Policy
 
-education:
+experience:
   - degree: M.A. Public Policy
     institution: University of Chinese Academy of Sciences
     start: 2025/09
@@ -46,20 +46,6 @@ education:
       School of Public Administration.
       Rank: 1/67, GPA: 3.84/4.0, Comprehensive Score: 94.49.
 
-experience:
-  - role: Research Assistant
-    org: Institute for Contemporary China Studies, Tsinghua University
-    start: 2025/09
-    end: 2026/02
-    summary: |
-      Participated in policy research and academic projects on contemporary China studies.
-
-  - role: Financial Assistant
-    org: Jiuliti North Community, Jinniu District, Chengdu
-    start: 2023/06
-    end: 2023/07
-    summary: |
-      Assisted in financial administration and community service management.
 
 skills:
   - name: Programming and Data Analysis
