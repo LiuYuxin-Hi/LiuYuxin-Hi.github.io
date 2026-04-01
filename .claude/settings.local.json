@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/vscode/ai_health/**)",
+      "Bash(python data_processing_supply.py)"
+    ]
+  }
+}
