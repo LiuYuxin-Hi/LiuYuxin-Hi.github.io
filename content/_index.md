@@ -54,15 +54,15 @@ sections:
 
 
   # Education Timeline
-  - block: resume-experience
-    id: experience
+  - block: resume-education
+    id: education
     content:
       title: Education
       date_format: Jan 2006
       items:
         - title: M.A. Public Policy
-          company: University of Chinese Academy of Sciences
-          company_url: 'https://www.ucas.ac.cn/'
+          institution: University of Chinese Academy of Sciences
+          institution_url: 'https://www.ucas.ac.cn/'
           location: Beijing, China
           date_start: '2025-09-01'
           date_end: '2028-06-30'
@@ -70,8 +70,8 @@ sections:
             * School of Public Policy and Management
             * Research Focus: Artificial Intelligence Governance, Digital Government
         - title: B.A. Public Affairs Management
-          company: Southwest Jiaotong University
-          company_url: 'https://www.swjtu.edu.cn/'
+          institution: Southwest Jiaotong University
+          institution_url: 'https://www.swjtu.edu.cn/'
           location: Chengdu, China
           date_start: '2021-09-01'
           date_end: '2025-06-30'
@@ -149,7 +149,7 @@ sections:
 
   # Visual Tech Stack - Icons organized by category
   - block: tech-stack
-    id: Tech Stack
+    id: skills
     content:
       title: "Tech Stack"
       subtitle: "My Advantages"
