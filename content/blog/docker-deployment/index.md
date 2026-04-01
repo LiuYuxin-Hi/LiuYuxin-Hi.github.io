@@ -1,7 +1,8 @@
 ---
-title: "Digital Transformation Dilemmas and Development Models of New-Type Think Tanks in China under the Background of Intelligent Technology Development"
+title: "[Think Tank: Theory & Practice] Digital Transformation Dilemmas and Development Models of New-Type Think Tanks in China under the Background of Intelligent Technology Development"
 date: 2026-03-12
-summary: "Tianhang Huang*, Beibei Yu & Yuxin Liu — Explores the dilemmas and development models of digital transformation for new-type think tanks in China under the context of intelligent technology."
+summary: "Tianhang Huang*, Beibei Yu & Yuxin Liu*
+Explores the dilemmas and development models of digital transformation for new-type think tanks in China under the context of intelligent technology."
 tags:
   - Think Tank: Theory & Practice
   - CSSCI
@@ -51,5 +52,5 @@ Strategic digital adoption is essential for think tanks to maintain relevance an
 
 ---
 
-Feel free to reach out via GitHub:
-🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)

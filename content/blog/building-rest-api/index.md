@@ -1,7 +1,8 @@
 ---
 title: "Perceived Quality of Home- and Community-Based Services and Urban-Rural Disparities in Aging-in-Place Intentions"
 date: 2026-04-01
-summary: "Shuangshuang Wang*, Yuxin Liu & Yifan Yang* — Using data from 11,601 older adults in Sichuan, China, we analyzed perceived HCBS quality across four dimensions (service quantity, service quality, provider sufficiency, and distance) through an ecological framework integrating service quality models and the Ecology Model of Aging."
+summary: "Shuangshuang Wang*, Yuxin Liu & Yifan Yang*
+Using data from 11,601 older adults in Sichuan, China, we analyzed perceived HCBS quality across four dimensions (service quantity, service quality, provider sufficiency, and distance) through an ecological framework integrating service quality models and the Ecology Model of Aging."
 tags:
   - BMC Geriatrics
   - JCR Q1
@@ -51,5 +52,5 @@ Quality of services and regional disparities significantly affect aging-in-place
 
 ---
 
-Feel free to reach out via GitHub:
-🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
