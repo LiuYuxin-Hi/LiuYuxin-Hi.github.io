@@ -149,7 +149,7 @@ sections:
 
   # Visual Tech Stack - Icons organized by category
   - block: tech-stack
-    id: skills
+    id: Tech Stack
     content:
       title: "Tech Stack"
       subtitle: "My Advantages"
