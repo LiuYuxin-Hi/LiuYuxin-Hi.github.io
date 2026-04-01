@@ -55,7 +55,7 @@ sections:
 
   # Education Timeline
   - block: resume-experience
-    id: education
+    id: experience
     content:
       title: Education
       date_format: Jan 2006
