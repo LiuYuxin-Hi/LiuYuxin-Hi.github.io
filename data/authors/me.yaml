@@ -31,17 +31,18 @@ interests:
   - Public Policy
 
 experience:
-  - degree: M.A. Public Policy
-    institution: University of Chinese Academy of Sciences
-    start: 2025/09
-    end: 2028/06
+  - role: M.A. Public Policy
+    org: University of Chinese Academy of Sciences
+    start: '2025-09-01'
+    end: '2028-06-30'
     summary: |
       School of Public Policy and Management.
+      Research Focus: Artificial Intelligence Governance, Digital Government.
 
-  - degree: B.A. Public Affairs Management
-    institution: Southwest Jiaotong University
-    start: 2021/09
-    end: 2025/06
+  - role: B.A. Public Affairs Management
+    org: Southwest Jiaotong University
+    start: '2021-09-01'
+    end: '2025-06-30'
     summary: |
       School of Public Administration.
       Rank: 1/67, GPA: 3.84/4.0, Comprehensive Score: 94.49.
