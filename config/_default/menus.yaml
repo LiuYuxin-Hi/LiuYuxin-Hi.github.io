@@ -4,7 +4,7 @@
 
 main:
   - name: Education
-    url: /#education
+    url: /#experience
     weight: 10
   - name: Papers
     url: /#blog
