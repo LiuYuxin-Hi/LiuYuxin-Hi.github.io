@@ -59,27 +59,6 @@ sections:
     content:
       title: Education
       date_format: Jan 2006
-      items:
-        - title: M.A. Public Policy
-          company: University of Chinese Academy of Sciences
-          company_url: 'https://www.ucas.ac.cn/'
-          company_logo: ''
-          location: Beijing, China
-          date_start: '2025-09-01'
-          date_end: '2028-06-30'
-          description: |2-
-            * School of Public Policy and Management
-            * Research Focus: Artificial Intelligence Governance, Digital Government
-        - title: B.A. Public Affairs Management
-          company: Southwest Jiaotong University
-          company_url: 'https://www.swjtu.edu.cn/'
-          company_logo: ''
-          location: Chengdu, China
-          date_start: '2021-09-01'
-          date_end: '2025-06-30'
-          description: |2-
-            * School of Public Administration
-            * Rank: 1/67, GPA: 3.84/4.0, Comprehensive Score: 94.49
     design:
       columns: '1'
       background:
