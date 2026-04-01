@@ -12,7 +12,7 @@ main:
   - name: Internships
     url: /#projects
     weight: 30
-  - name: Skills
+  - name: Tech Stack
     url: /#skills
     weight: 40
   - name: Contact
