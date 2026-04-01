@@ -3,9 +3,13 @@ title: "Digital Transformation Dilemmas and Development Models of New-Type Think
 date: 2026-03-12
 summary: "Explores the dilemmas and development models of digital transformation for new-type think tanks in China under the context of intelligent technology."
 tags:
+  - Think Tank: Theory & Practice
   - CSSCI
+  - PKU Core
 authors:
-  - me
+  - Tianhang Huang*
+  - Beibei Yu
+  - Yuxin Liu
 featured: false
 ---
 
