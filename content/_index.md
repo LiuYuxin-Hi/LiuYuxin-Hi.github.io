@@ -170,9 +170,9 @@ sections:
       email: liuyuxin254@mails.ucas.ac.cn
       autolink: true
       links:
-        - icon: "github"
-          label: "FIND ME ON"
-          url: "https://github.com/LiuYuxin-Hi"
+        - icon: brands/github
+          label: FIND ME ON
+          url: https://github.com/LiuYuxin-Hi
     design:
       columns: '1'
       background:

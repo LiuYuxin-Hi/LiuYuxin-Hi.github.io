@@ -11,10 +11,7 @@ tech_stack:
   - Python
   - Data Analysis
   - Literature Review
-links:
-  - type: github
-    url: https://github.com/LiuYuxin-Hi
-    label: GitHub
+links: []
 featured: true
 status: "Completed"
 role: "Research Assistant"
@@ -24,7 +21,7 @@ highlights:
   - "Conducted literature review and policy analysis for contemporary China studies"
   - "Collected and processed large datasets for ongoing research projects"
   - "Prepared reports and presentations for academic seminars"
-  - "Collaborated with professors and PhD students to support publications"
+  - "Collaborated with professors and PhD students on support publications"
 ---
 
 ## Overview
@@ -47,5 +44,5 @@ Working as a Research Assistant at the Institute for Contemporary China Studies,
 
 ---
 
-Feel free to reach out via GitHub:
-🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)

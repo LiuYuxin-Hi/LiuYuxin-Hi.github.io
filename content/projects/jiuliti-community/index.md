@@ -43,5 +43,5 @@ This internship at JiuLiTi North Community in Chengdu involved supporting financ
 
 ---
 
-Feel free to reach out via GitHub:
-🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)

@@ -1,7 +1,7 @@
 ---
-title: "Xiaomi Auto - Policy Analyst"
+title: "Xiaomi Intelligence Mobility Technology (Xiaomi Auto) - Policy Analyst Intern"
 date: 2026-04-01
-summary: "参与小米汽车政策研究项目，分析中国新能源汽车产业政策及其影响"
+summary: "Participated in Xiaomi Auto policy research projects, analyzing Chinese new energy vehicle industry policies and their impacts"
 tags:
   - Policy Analysis
   - Industry Research
@@ -25,7 +25,7 @@ highlights:
 
 ## Overview
 
-Interned as a Policy Analyst at Xiaomi Auto, focusing on Chinese new energy vehicle (NEV) industry policy research and analysis.
+Interned as a Policy Analyst at Xiaomi Intelligence Mobility Technology (Xiaomi Auto), focusing on Chinese new energy vehicle (NEV) industry policy research and analysis.
 
 ## Responsibilities
 
@@ -43,5 +43,5 @@ Interned as a Policy Analyst at Xiaomi Auto, focusing on Chinese new energy vehi
 
 ---
 
-Feel free to reach out via GitHub:
-🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
+Questions? Feel free to reach out via email:
+📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
