@@ -3,9 +3,15 @@ title: "Digital Transformation Policies of the Central Government and Their Impa
 date: 2026-03-12
 summary: "Analyzes central government digital transformation policies and their impacts from a three-dimensional policy field perspective."
 tags:
+  - China Soft Science
   - CSSCI
+  - PKU Core
 authors:
-  - me
+  - Tianhang Huang*
+  - Juan Gao
+  - Beibei Yu
+  - Huasha He
+  - Yuxin Liu
 featured: false
 ---
 
