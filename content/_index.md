@@ -18,6 +18,13 @@ sections:
       greeting: "Hi, I'm"
       show_status: true
       show_scroll_indicator: true
+      social_links:
+        - icon: at-symbol
+          label: liuyuxin254@mails.ucas.ac.cn
+          url: mailto:liuyuxin254@mails.ucas.ac.cn
+        - icon: github
+          label: GitHub
+          url: https://github.com/LiuYuxin-Hi
       typewriter:
         enable: true
         prefix: "I have published"
@@ -53,42 +60,26 @@ sections:
       title: Education
       date_format: Jan 2006
       items:
-        - title: Senior Software Engineer
-          company: Tech Corp
-          company_url: ''
+        - title: M.A. Public Policy
+          company: University of Chinese Academy of Sciences
+          company_url: 'https://www.ucas.ac.cn/'
           company_logo: ''
-          location: San Francisco, CA
-          date_start: '2023-01-01'
-          date_end: ''
+          location: Beijing, China
+          date_start: '2025-09-01'
+          date_end: '2028-06-30'
           description: |2-
-            * Lead development of microservices architecture serving 1M+ users
-            * Improved API response time by 40% through optimization
-            * Mentored team of 5 junior developers
-            * Tech stack: React, Node.js, PostgreSQL, AWS
-        - title: Full-Stack Developer
-          company: Startup Inc
-          company_url: ''
+            * School of Public Policy and Management
+            * Research Focus: Artificial Intelligence Governance, Digital Government
+        - title: B.A. Public Affairs Management
+          company: Southwest Jiaotong University
+          company_url: 'https://www.swjtu.edu.cn/'
           company_logo: ''
-          location: Remote
-          date_start: '2021-06-01'
-          date_end: '2022-12-31'
+          location: Chengdu, China
+          date_start: '2021-09-01'
+          date_end: '2025-06-30'
           description: |2-
-            * Built and deployed 3 production applications from scratch
-            * Implemented CI/CD pipeline reducing deployment time by 60%
-            * Collaborated with design team on UI/UX improvements
-            * Tech stack: Next.js, Express, MongoDB, Docker
-        - title: Junior Developer
-          company: Web Agency
-          company_url: ''
-          company_logo: ''
-          location: New York, NY
-          date_start: '2020-01-01'
-          date_end: '2021-05-31'
-          description: |2-
-            * Developed client websites using modern web technologies
-            * Maintained and updated legacy codebases
-            * Participated in code reviews and agile ceremonies
-            * Tech stack: React, WordPress, PHP, MySQL
+            * School of Public Administration
+            * Rank: 1/67, GPA: 3.84/4.0, Comprehensive Score: 94.49
     design:
       columns: '1'
       background:
@@ -104,7 +95,7 @@ sections:
     id: blog
     content:
       title: Papers
-      subtitle: 'My Thoughts'
+      subtitle: 'My Creativity'
       text: ''
       filters:
         folders:
@@ -165,46 +156,32 @@ sections:
       title: "Tech Stack"
       subtitle: "My Advantages"
       categories:
-        - name: Languages
+        - name: Programming & Analysis
           items:
-            - name: TypeScript
-              icon: devicon/typescript
-            - name: JavaScript
-              icon: devicon/javascript
             - name: Python
               icon: devicon/python
-            - name: Go
-              icon: devicon/go
-        - name: Frontend
+            - name: R
+              icon: devicon/r
+            - name: Stata
+              icon: custom/stata
+            - name: SmartPLS
+              icon: custom/smartpls
+            - name: SPSS
+              icon: custom/spss
+        - name: Mapping & Visualization
           items:
-            - name: React
-              icon: devicon/react
-            - name: Next.js
-              icon: devicon/nextjs
-            - name: Tailwind CSS
-              icon: devicon/tailwindcss
-            - name: Alpine.js
-              icon: devicon/alpinejs
-        - name: Backend
+            - name: ArcMap
+              icon: custom/arcgis
+            - name: Origin
+              icon: custom/origin
+            - name: CiteSpace
+              icon: custom/citespace
+        - name: Research & Reference
           items:
-            - name: Node.js
-              icon: devicon/nodejs
-            - name: Express
-              icon: devicon/express
-            - name: PostgreSQL
-              icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
-        - name: DevOps
-          items:
-            - name: Docker
-              icon: devicon/docker
-            - name: AWS
-              icon: devicon/amazonwebservices-wordmark
-            - name: GitHub Actions
-              icon: brands/github
-            - name: Vercel
-              icon: devicon/vercel
+            - name: NVivo
+              icon: custom/nvivo
+            - name: Zotero
+              icon: custom/zotero
     design:
       style: grid
       show_levels: false
@@ -229,6 +206,10 @@ sections:
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
       email: liuyuxin254@mails.ucas.ac.cn
       autolink: true
+      links:
+        - icon: "github"
+          label: "Find me on"
+          url: "https://github.com/LiuYuxin-Hi"
     design:
       columns: '1'
       background:
@@ -243,8 +224,8 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
-        
+        I'm currently looking for **new opportunities**.
+
         Let's connect and discuss how I can help your team.
       button:
         text: 'Download Resume'
