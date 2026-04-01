@@ -21,7 +21,7 @@ This study investigates how perceived quality of home- and community-based servi
 
 ## Introduction {#introduction}
 
-Aging-in-place is a major concern in China due to rapid urbanization and an increasing elderly population. This paper explores the role of home- and community-based services (HCBS) quality and urban-rural differences on older adults’ intentions to age in place.
+Aging-in-place is a major concern in China due to rapid urbanization and an increasing elderly population. This paper explores the role of home- and community-based services (HCBS) quality and urban-rural differences on older adults' intentions to age in place.
 
 ## Methods {#methods}
 

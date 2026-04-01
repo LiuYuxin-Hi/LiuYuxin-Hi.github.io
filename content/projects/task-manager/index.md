@@ -1,24 +1,25 @@
 ---
-title: "JiuLiTi North Community, Jinniu District, Chengdu - Financial Assistant"
-date: 2023-06-01
-summary: "Supported financial operations and community accounting tasks at a local community organization"
+title: "Institute for Contemporary China Studies, Tsinghua University - Research Assistant"
+date: 2025-09-01
+summary: "Assisted research projects at Tsinghua University, focusing on data collection, analysis, and policy research"
 tags:
   - Internship
-  - Finance
-  - Community Work
+  - Research
+  - Policy Analysis
 tech_stack:
   - Excel
-  - Accounting
-  - Data Entry
+  - Python
+  - Data Analysis
+  - Literature Review
 links: []
 featured: true
 status: "Completed"
-role: "Financial Assistant"
-duration: "Jun 2023 – Jul 2023"
-team_size: 2
+role: "Research Assistant"
+duration: "Sep 2025 – Feb 2026"
+team_size: 3
 highlights:
-  - "Assisted in bookkeeping and maintaining accurate financial records"
-  - "Processed invoices and expense reports for community projects"
-  - "Conducted budget tracking and helped prepare monthly financial statements"
-  - "Collaborated with team members to ensure compliance with financial regulations"
+  - "Conducted literature review and policy analysis for contemporary China studies"
+  - "Collected and processed large datasets for ongoing research projects"
+  - "Prepared reports and presentations for academic seminars"
+  - "Collaborated with professors and PhD students to support publications"
 ---

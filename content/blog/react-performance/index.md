@@ -9,7 +9,7 @@ authors:
 featured: false
 ---
 
-This research investigates China’s central government digital transformation policies and evaluates their impacts across multiple policy dimensions.
+This research investigates China's central government digital transformation policies and evaluates their impacts across multiple policy dimensions.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This research investigates China’s central government digital transformation p
 
 ## Introduction {#introduction}
 
-Digital transformation is a core strategy in China’s governance. This paper examines policy mechanisms and evaluates effectiveness from a three-dimensional perspective.
+Digital transformation is a core strategy in China's governance. This paper examines policy mechanisms and evaluates effectiveness from a three-dimensional perspective.
 
 ## Policy Analysis Framework {#framework}
 

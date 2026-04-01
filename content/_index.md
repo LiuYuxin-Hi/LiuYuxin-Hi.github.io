@@ -51,7 +51,7 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
-  
+
 
   # Education Timeline
   - block: resume-experience
@@ -110,7 +110,7 @@ sections:
           dark: "#08080c"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
+
 
 
   # Filterable Portfolio - Alpine.js powered project filtering
@@ -146,7 +146,7 @@ sections:
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
+
   # Visual Tech Stack - Icons organized by category
   - block: tech-stack
     id: skills
@@ -189,10 +189,9 @@ sections:
           dark: "#08080c"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
 
-  
-  
+
+
   # Contact Section
   - block: contact-info
     id: contact
@@ -216,7 +215,7 @@ sections:
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
+
   # CTA Card
   - block: cta-card
     content:

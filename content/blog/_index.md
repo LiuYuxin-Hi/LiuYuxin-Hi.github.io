@@ -1,5 +1,4 @@
 ---
-design:
-  view: card
-  columns: 3
+title: Blog
+view: article-grid
 ---
