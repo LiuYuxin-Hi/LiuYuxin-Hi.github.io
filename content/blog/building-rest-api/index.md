@@ -1,15 +1,12 @@
 ---
 title: "Perceived Quality of Home- and Community-Based Services and Urban-Rural Disparities in Aging-in-Place Intentions"
 date: 2026-04-01
-summary: "Using data from 11,601 older adults in Sichuan, China, we analyzed perceived HCBS quality across four dimensions (service quantity, service quality, provider sufficiency, and distance) through an ecological framework integrating service quality models and the Ecology Model of Aging."
+summary: "Shuangshuang Wang*, Yuxin Liu & Yifan Yang* — Using data from 11,601 older adults in Sichuan, China, we analyzed perceived HCBS quality across four dimensions (service quantity, service quality, provider sufficiency, and distance) through an ecological framework integrating service quality models and the Ecology Model of Aging."
 tags:
   - BMC Geriatrics
   - JCR Q1
   - CAS Q2
-authors:
-  - Shuangshuang Wang*
-  - Yuxin Liu
-  - Yifan Yang*
+authors: []
 featured: true
 ---
 

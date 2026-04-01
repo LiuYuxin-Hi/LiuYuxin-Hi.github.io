@@ -85,6 +85,7 @@ sections:
     design:
       view: card
       columns: 3
+      show_tags: true
       background:
         color:
           light: "#f5f5f5"
