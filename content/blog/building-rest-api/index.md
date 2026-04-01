@@ -54,5 +54,5 @@ Quality of services and regional disparities significantly affect aging-in-place
 
 ---
 
-Questions? Feel free to reach out via email:
-📧 [liuyuxin254@mails.ucas.ac.cn](mailto:liuyuxin254@mails.ucas.ac.cn)
+Feel free to reach out via GitHub:
+🐙 [LiuYuxin-Hi](https://github.com/LiuYuxin-Hi)
