@@ -104,21 +104,6 @@ sections:
       filters:
         folders:
           - projects
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
-      default_button_index: 0
-      # Archive link auto-shown if more projects exist than 'count' above
-      # archive:
-      #   enable: false  # Set to false to explicitly hide
-      #   text: "Browse All"  # Customize text
-      #   link: "/work/"  # Custom URL
     design:
       columns: 3
       background:
@@ -133,7 +118,7 @@ sections:
     id: skills
     content:
       title: "Tech Stack"
-      subtitle: "My Advantages"
+      subtitle: "My Skills"
       categories:
         - name: Programming & Analysis
           items:
@@ -177,7 +162,7 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Get In Touch
+      title: Contact
       subtitle: "Let's build something amazing together"
       text: |-
         I'm always interested in hearing about new opportunities.
@@ -186,7 +171,7 @@ sections:
       autolink: true
       links:
         - icon: "github"
-          label: "Find me on"
+          label: "FIND ME ON"
           url: "https://github.com/LiuYuxin-Hi"
     design:
       columns: '1'
