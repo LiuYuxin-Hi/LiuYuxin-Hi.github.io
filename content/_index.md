@@ -70,22 +70,16 @@ sections:
 
 
 # Recent Blog Posts
-  - block: collection
+  - block: portfolio
     id: blog
     content:
       title: Papers
       subtitle: 'My Creativity'
-      text: ''
       filters:
         folders:
           - blog
-        exclude_featured: false
-      count: 3
-      order: desc
     design:
-      view: card
       columns: 3
-      show_tags: true
       background:
         color:
           light: "#f5f5f5"
@@ -163,17 +157,13 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Contact
+      title: Get In Touch
       subtitle: "Let's build something amazing together"
       text: |-
-        I'm always interested in hearing about new opportunities.
+        I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
       email: liuyuxin254@mails.ucas.ac.cn
       autolink: true
-      links:
-        - icon: brands/github
-          label: FIND ME ON
-          url: https://github.com/LiuYuxin-Hi
     design:
       columns: '1'
       background:
