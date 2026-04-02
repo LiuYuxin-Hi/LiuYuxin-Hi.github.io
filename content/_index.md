@@ -165,9 +165,8 @@ sections:
     content:
       title: Contact
       subtitle: "Let's build something amazing together"
-      text: |-
-        I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
+      text: 
+        I'm always interested in hearing about new projects and opportunities. Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
       email: liuyuxin254@mails.ucas.ac.cn
       autolink: true
     design:
@@ -177,7 +176,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+        padding: ["0rem", "0", "0rem", "0"]
 
   # CTA Card
   - block: cta-card
