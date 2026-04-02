@@ -9,8 +9,6 @@ authors:
 featured: true
 ---
 
-*Wang, S., Liu, Y. & Yang, Y. Perceived quality of home- and community-based services and urban-rural disparities in aging-in-place intentions: evidence from Chinese older adults. BMC Geriatr 26, 125 (2026).*
-
 This study investigates how perceived quality of home- and community-based services and urban-rural disparities influence aging-in-place intentions among older adults in China.
 
 ## Table of Contents
@@ -45,6 +43,9 @@ The study highlights service gaps that may impact the ability of older adults to
 ## Conclusion {#conclusion}
 
 Quality of services and regional disparities significantly affect aging-in-place intentions. Targeted interventions can help promote equitable aging opportunities.
+
+
+*Wang, S., Liu, Y. & Yang, Y. Perceived quality of home- and community-based services and urban-rural disparities in aging-in-place intentions: evidence from Chinese older adults. BMC Geriatr 26, 125 (2026).*
 
 
 [Read full article](https://link.springer.com/article/10.1186/s12877-025-06936-z)
