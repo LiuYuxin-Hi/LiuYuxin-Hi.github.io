@@ -178,7 +178,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["4rem", "0", "0rem", "0"]
+        padding: ["0rem", "0", "0rem", "0"]
 
   # CTA Card
   - block: cta-card
