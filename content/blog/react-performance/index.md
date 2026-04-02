@@ -1,13 +1,17 @@
 ---
 title: "Digital Transformation Policies of the Central Government and Their Impacts: An Analysis from a Three-Dimensional Policy Field Perspective"
 date: 2026-03-12
-summary: "Tianhang Huang*, Juan Gao, Beibei Yu, Huasha He & Yuxin Liu*
-Analyzes central government digital transformation policies and their impacts from a three-dimensional policy field perspective."
+summary: "Analyzes central government digital transformation policies and their impacts from a three-dimensional policy field perspective."
 tags:
   - China Soft Science
   - CSSCI
   - PKU Core
-authors: []
+authors:
+  - Tianhang Huang*
+  - Juan Gao
+  - Beibei Yu
+  - Huasha He
+  - Yuxin Liu*
 featured: false
 ---
 
