@@ -45,6 +45,10 @@ The study highlights service gaps that may impact the ability of older adults to
 Quality of services and regional disparities significantly affect aging-in-place intentions. Targeted interventions can help promote equitable aging opportunities.
 
 
+
+
+
+
 *Wang, S., Liu, Y. & Yang, Y. Perceived quality of home- and community-based services and urban-rural disparities in aging-in-place intentions: evidence from Chinese older adults. BMC Geriatr 26, 125 (2026).*
 
 
