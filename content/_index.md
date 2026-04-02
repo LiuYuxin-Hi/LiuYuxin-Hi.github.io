@@ -85,6 +85,7 @@ sections:
       view: card
       columns: 3
       show_tags: true
+      show_author: false
       background:
         color:
           light: "#f5f5f5"

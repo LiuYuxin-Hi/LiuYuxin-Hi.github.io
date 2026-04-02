@@ -5,7 +5,9 @@ summary: "Shuangshuang Wang*, Yuxin Liu, Yifan Yang*"
 tags:
   - BMC Geriatrics, JCR Q1, CAS Q2
 authors:
-  - me
+  - Shuangshuang Wang
+  - Yuxin Liu
+  - Yifan Yang
 featured: true
 ---
 
