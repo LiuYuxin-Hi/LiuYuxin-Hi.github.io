@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Read(//d/vscode/ai_health/**)",
-      "Bash(python data_processing_supply.py)"
+      "Bash(python data_processing_supply.py)",
+      "Bash(python3 -c \"from PIL import Image; print\\('PIL available'\\)\")",
+      "Bash(python -c \"from PIL import Image; print\\('PIL available'\\)\")"
     ]
   }
 }

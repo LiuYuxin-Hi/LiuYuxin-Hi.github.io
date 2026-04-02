@@ -128,25 +128,25 @@ sections:
             - name: R
               icon: devicon/r
             - name: Stata
-              icon: custom/stata
+              icon: media/pictures/stata
             - name: SmartPLS
-              icon: custom/smartpls
+              icon: media/pictures/smartpls
             - name: SPSS
-              icon: custom/spss
+              icon: media/pictures/spss
         - name: Mapping & Visualization
           items:
             - name: ArcMap
-              icon: custom/arcgis
+              icon: media/pictures/arcgis
             - name: Origin
-              icon: custom/origin
+              icon: media/pictures/origin
             - name: CiteSpace
-              icon: custom/citespace
+              icon: media/pictures/citespace
         - name: Research & Reference
           items:
             - name: NVivo
-              icon: custom/nvivo
+              icon: media/pictures/nvivo
             - name: Zotero
-              icon: custom/zotero
+              icon: media/pictures/zotero
     design:
       style: grid
       show_levels: false
@@ -163,7 +163,7 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Get In Touch
+      title: Contact
       subtitle: "Let's build something amazing together"
       text: |-
         I'm always interested in hearing about new projects and opportunities.
@@ -172,6 +172,7 @@ sections:
       autolink: true
     design:
       columns: '1'
+      width: full
       background:
         color:
           light: "#ffffff"
