@@ -5,9 +5,7 @@ summary: "Tianhang Huang*, Beibei Yu, Yuxin Liu"
 tags:
   - Think Tank Theory & Practice, CSSCI, PKU Core
 authors:
-  - Tianhang Huang
-  - Beibei Yu
-  - Yuxin Liu
+  - me
 featured: true
 ---
 

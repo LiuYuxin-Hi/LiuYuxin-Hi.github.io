@@ -1,0 +1,26 @@
+/* Custom CSS to fix card width */
+.article-card {
+    max-width: 100% !important;
+}
+
+.card-content {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Fix for collection card grid */
+.collection-view-card .article-card {
+    max-width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.collection-view-card .grid {
+    gap: 1.5rem;
+}
+
+/* Ensure cards use full width in their container */
+.grid .article-card {
+    width: 100%;
+    max-width: 100%;
+}

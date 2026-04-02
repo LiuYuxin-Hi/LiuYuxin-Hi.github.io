@@ -5,11 +5,11 @@ summary: "Shuangshuang Wang*, Yuxin Liu, Yifan Yang*"
 tags:
   - BMC Geriatrics, JCR Q1, CAS Q2
 authors:
-  - Shuangshuang Wang
-  - Yuxin Liu
-  - Yifan Yang
+  - me
 featured: true
 ---
+
+*Wang, S., Liu, Y. & Yang, Y. Perceived quality of home- and community-based services and urban-rural disparities in aging-in-place intentions: evidence from Chinese older adults. BMC Geriatr 26, 125 (2026).*
 
 This study investigates how perceived quality of home- and community-based services and urban-rural disparities influence aging-in-place intentions among older adults in China.
 

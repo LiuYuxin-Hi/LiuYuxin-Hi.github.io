@@ -5,11 +5,7 @@ summary: "Tianhang Huang*, Juan Gao, Beibei Yu, Huasha He, Yuxin Liu"
 tags:
   - China Soft Science, CSSCI, PKU Core
 authors:
-  - Tianhang Huang
-  - Juan Gao
-  - Beibei Yu
-  - Huasha He
-  - Yuxin Liu
+  - me
 featured: false
 ---
 
