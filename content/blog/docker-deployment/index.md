@@ -8,7 +8,7 @@ tags:
   - CSSCI
   - PKU Core
 authors: []
-featured: false
+featured: true
 ---
 
 This paper analyzes the challenges faced by Chinese new-type think tanks in digital transformation and proposes development models under intelligent technology.

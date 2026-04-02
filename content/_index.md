@@ -70,7 +70,7 @@ sections:
 
 
 # Recent Blog Posts
-  - block: portfolio
+  - block: collection
     id: blog
     content:
       title: Papers
@@ -78,8 +78,13 @@ sections:
       filters:
         folders:
           - blog
+        exclude_featured: false
+      count: 3
+      order: desc
     design:
+      view: card
       columns: 3
+      show_tags: true
       background:
         color:
           light: "#f5f5f5"
