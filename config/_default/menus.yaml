@@ -3,7 +3,7 @@
 #   The weight parameter defines the order that the links appear.
 
 main:
-  - name: Education
+  - name: Experience
     url: /#experience
     weight: 10
   - name: Papers
