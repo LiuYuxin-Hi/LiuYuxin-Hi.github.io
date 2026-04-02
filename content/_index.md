@@ -74,10 +74,12 @@ sections:
     id: blog
     content:
       title: Papers
-      subtitle: 'My Creativity'
+      subtitle: 'My Publications'
       filters:
         folders:
-          - blog
+          - blog/paper1
+          - blog/paper2
+          - blog/paper3
         exclude_featured: false
       count: 3
       order: desc
@@ -85,6 +87,7 @@ sections:
       view: card
       columns: 3
       show_tags: true
+      card_spacing: 1.5
       background:
         color:
           light: "#f5f5f5"
